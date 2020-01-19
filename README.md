@@ -1,4 +1,4 @@
-Setup of a Highly Available( Kubernetes Cluster
+Setup of a Highly Available(HA) Kubernetes Cluster
 ------------------------------------------------------------------------
 
 Setting up a CentOS 8 VM instance on the machine.
